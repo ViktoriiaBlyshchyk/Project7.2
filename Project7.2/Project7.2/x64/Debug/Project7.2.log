@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Study\ООП\Project7.2\Project7.2\Source.cpp(17,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Study\ООП\Project7.2\Project7.2\Source.cpp(30,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project7.2.vcxproj -> D:\Study\ООП\Project7.2\x64\Debug\Project7.2.exe
